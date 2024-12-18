@@ -29,6 +29,7 @@ pip install matplotlib numpy tensorflow scikit-learn
 
 The dataset for this project consists of pairs of images and corresponding masks:
 
+- **Link**: [Download here](https://www.kaggle.com/datasets/faizalkarim/flood-area-segmentation/data)
 - **Images**: Satellite or aerial images of flood-affected areas.
 - **Masks**: Binary masks highlighting the flood areas (1 for flooded areas, 0 for non-flooded areas).
 
